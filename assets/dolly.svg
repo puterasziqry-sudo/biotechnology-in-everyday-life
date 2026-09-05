@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 900">
+<rect width="1280" height="900" rx="40" fill="#f3f8f5"/>
+<circle cx="1120" cy="120" r="180" fill="#dfeee8"/><circle cx="150" cy="780" r="220" fill="#e8f3ef"/>
+<g fill="#fff" stroke="#1d6b52" stroke-width="10"><ellipse cx="660" cy="520" rx="300" ry="210"/><circle cx="930" cy="450" r="115"/><ellipse cx="1030" cy="380" rx="55" ry="90"/><ellipse cx="835" cy="370" rx="55" ry="90"/></g><g fill="#1d6b52"><circle cx="960" cy="430" r="12"/><circle cx="870" cy="430" r="12"/></g><path d="M470 690v120M820 690v120M950 560v210M620 690v120" stroke="#1d6b52" stroke-width="18" stroke-linecap="round"/>
+<text x="80" y="105" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#123f31">Dolly the Sheep</text>
+<text x="80" y="155" font-family="Arial, sans-serif" font-size="24" fill="#527066">A landmark in adult-cell cloning</text>
+</svg>
