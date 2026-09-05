@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 900">
+<rect width="1280" height="900" rx="40" fill="#f3f8f5"/>
+<circle cx="1120" cy="120" r="180" fill="#dfeee8"/><circle cx="150" cy="780" r="220" fill="#e8f3ef"/>
+<g fill="none" stroke="#1d6b52" stroke-width="14" stroke-linecap="round"><path d="M680 820V360"/><path d="M680 520C560 420 430 420 350 510"/><path d="M680 620C820 500 940 520 1010 620"/><path d="M680 420C760 330 850 310 930 350"/><path d="M680 700C560 610 450 630 370 720"/></g><g fill="#dfeee8" stroke="#1d6b52" stroke-width="10"><ellipse cx="420" cy="500" rx="150" ry="70" transform="rotate(20 420 500)"/><ellipse cx="950" cy="610" rx="150" ry="70" transform="rotate(25 950 610)"/><ellipse cx="880" cy="340" rx="130" ry="60" transform="rotate(-20 880 340)"/></g>
+<text x="80" y="105" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#123f31">Biotechnology in Crops</text>
+<text x="80" y="155" font-family="Arial, sans-serif" font-size="24" fill="#527066">Improving traits, nutrition and resilience</text>
+</svg>

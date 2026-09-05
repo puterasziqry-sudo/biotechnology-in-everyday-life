@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 900">
+<rect width="1280" height="900" rx="40" fill="#f3f8f5"/>
+<circle cx="1120" cy="120" r="180" fill="#dfeee8"/><circle cx="150" cy="780" r="220" fill="#e8f3ef"/>
+<g fill="none" stroke="#1d6b52" stroke-width="12"><path d="M220 650 C380 520 520 780 700 640 S1020 500 1140 650"/><path d="M250 760 C400 630 540 880 730 740 S1000 620 1120 760"/></g><g fill="#dfeee8" stroke="#1d6b52" stroke-width="10"><rect x="260" y="250" width="250" height="220" rx="30"/><rect x="610" y="250" width="250" height="220" rx="30"/><rect x="435" y="500" width="250" height="220" rx="30"/></g><path d="M510 360h100M860 360h-100M560 610h80" stroke="#2f8c70" stroke-width="14" stroke-linecap="round"/>
+<text x="80" y="105" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#123f31">Environmental Biotechnology</text>
+<text x="80" y="155" font-family="Arial, sans-serif" font-size="24" fill="#527066">Biological systems can help treat waste and water</text>
+</svg>

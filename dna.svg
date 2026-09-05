@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 900">
+<rect width="1280" height="900" rx="40" fill="#f3f8f5"/>
+<circle cx="1120" cy="120" r="180" fill="#dfeee8"/><circle cx="150" cy="780" r="220" fill="#e8f3ef"/>
+<g fill="none" stroke="#1d6b52" stroke-width="8"><path d="M280 120 C480 230 480 370 680 480 C880 590 880 730 1080 840"/><path d="M1080 120 C880 230 880 370 680 480 C480 590 480 730 280 840"/></g><g stroke="#2f8c70" stroke-width="7"><path d="M350 130 L810 130"/><path d="M410 208 L750 208"/><path d="M470 286 L690 286"/><path d="M530 364 L630 364"/><path d="M590 442 L570 442"/><path d="M650 520 L510 520"/><path d="M710 598 L450 598"/><path d="M770 676 L390 676"/><path d="M830 754 L330 754"/><path d="M890 832 L270 832"/></g>
+<text x="80" y="105" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#123f31">DNA &amp; Biotechnology</text>
+<text x="80" y="155" font-family="Arial, sans-serif" font-size="24" fill="#527066">The biological information behind modern applications</text>
+</svg>

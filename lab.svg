@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 900">
+<rect width="1280" height="900" rx="40" fill="#f3f8f5"/>
+<circle cx="1120" cy="120" r="180" fill="#dfeee8"/><circle cx="150" cy="780" r="220" fill="#e8f3ef"/>
+<g fill="#fff" stroke="#1d6b52" stroke-width="10"><rect x="300" y="250" width="220" height="500" rx="35"/><rect x="580" y="350" width="180" height="400" rx="35"/><rect x="820" y="180" width="190" height="570" rx="35"/></g><path d="M350 520h120M350 610h120M620 570h80M620 650h80M860 430h110M860 520h110" stroke="#2f8c70" stroke-width="18" stroke-linecap="round"/>
+<text x="80" y="105" font-family="Arial, sans-serif" font-size="46" font-weight="700" fill="#123f31">Modern Biotechnology Lab</text>
+<text x="80" y="155" font-family="Arial, sans-serif" font-size="24" fill="#527066">Cells, molecules, diagnostics and research</text>
+</svg>
