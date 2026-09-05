@@ -20,9 +20,3 @@ Upload the contents of this folder to the repository root so that `index.html`, 
 
 ## Live visitor counter
 The site uses CounterAPI's current v2 browser library for a shared site-visit counter. The counter is configured for the public workspace `biotechnology-for-everyday-life` and increments once per browser session. If the external counter service is unavailable, the interface falls back to a local browser count instead of showing a blank value.
-
-
-## GitHub browser upload
-This version intentionally keeps all image assets in the same folder as the HTML files.
-You can upload all files together through GitHub's **Add file → Upload files** without
-creating an `assets` folder. Do not create an `assets/assets` folder.
